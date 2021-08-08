@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: rromanotero/light_sensor
-  tag: latest
+  tag: master
   pullPolicy: IfNotPresent
 
 service:
