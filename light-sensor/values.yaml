@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: rromanotero/light_sensor
+  repository: rromanotero/test_repo_light_sensor
   tag: master
   pullPolicy: IfNotPresent
 
